@@ -1,7 +1,7 @@
 # Site settings
 title: XDLinux 西电开源社区
 email: xidian_linux@googlegroups.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "西电开源社区（兼西电IBM俱乐部，兼...）是由西电校内一群不仅玩linux的学生组成。"
 baseurl: ""
 url: "http://xdlinux.github.io"
 twitter_username: xdlinux

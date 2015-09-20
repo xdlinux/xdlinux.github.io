@@ -2,37 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>XDLinux 西电开源社区</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
+    <description>西电开源社区（兼西电IBM俱乐部，兼...）是由西电校内一群不仅玩linux的学生组成。</description>
     <link>http://xdlinux.github.io/</link>
     <atom:link href="http://xdlinux.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 20 Sep 2015 01:41:55 +0000</pubDate>
-    <lastBuildDate>Sun, 20 Sep 2015 01:41:55 +0000</lastBuildDate>
+    <pubDate>Sun, 20 Sep 2015 02:57:24 +0000</pubDate>
+    <lastBuildDate>Sun, 20 Sep 2015 02:57:24 +0000</lastBuildDate>
     <generator>Jekyll v2.2.0</generator>
     
       <item>
         <title>SFD2015 活动记录</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes!
-To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
+        <description>&lt;p&gt;2015年9月19日，又是一年一度的SFD，西电开源社区在大活511举办了今年的活动。  &lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;我们今年邀请到了来自 G(杜绝广告)fe 的 Iris Gou 学姐（阿姨），来自 Xi’an GDG 的 谢凌 （学长），来自 Mozilla 的工程师 赵博通，来自 (杜绝广告)乎 的&lt;em&gt;著名开发者&lt;/em&gt; 李明亮。哦还有最后一个，来自西电开源社区的 lumin 就不需要邀请了。&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;&lt;img src=&quot;/p/IMG_7810.JPG.jpg&quot; alt=&quot;iris&quot; /&gt;
+美丽的Iris阿姨的演讲题目为“Git助力学生团队协作”。&lt;br /&gt;
+开源界中广泛使用的Git可以使用在校园生活中的方方面面，尤其涉及团队协作时Git更是给力。不仅团队协作，Iris还介绍了
+Git一个丧病的用途：帮助老师给大作业评分。(这事情千万不能发生，当老师用git blame来检查作业或者检查git commit内容及时间戳时…)&lt;br /&gt;
+随后Iris还介绍了Git的一些基本概念，用法和原理。  &lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/p/IMG_7848.JPG.jpg&quot; alt=&quot;xie&quot; /&gt;
+老朋友 谢凌 学长介绍了一些开源软件项目，以及开源软件对世界产生的影响。&lt;/p&gt;
 
+&lt;p&gt;&lt;img src=&quot;/p/IMG_7858.JPG.jpg&quot; alt=&quot;zhao&quot; /&gt;
+来自火狐的工程师 赵博通 的主题为“Firefox让您的隐私更安全”。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/p/IMG_7867.JPG.jpg&quot; alt=&quot;li1&quot; /&gt;&lt;br /&gt;
+来自X乎的 &lt;em&gt;著名开发者&lt;/em&gt; 李明亮 同大家分享了一些实习经历等等。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/p/IMG_7868.JPG.jpg&quot; alt=&quot;li2&quot; /&gt;&lt;br /&gt;
+亮哥好像讲的很高兴的样子。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/p/IMG_7878.JPG.jpg&quot; alt=&quot;l1&quot; /&gt;&lt;br /&gt;
+Lumin 的主题为”Things you should know about software freedom”。
+没错，这就是典型的“开源大法好，退软保平安”洗脑演讲。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/p/IMG_7884.JPG.jpg&quot; alt=&quot;l2&quot; /&gt;
+一大波礼品正在靠近 – 诶？好像有奇怪的东西混进去了。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/p/IMG_7847.JPG.jpg&quot; alt=&quot;a1&quot; /&gt;
+&lt;img src=&quot;/p/IMG_7881.JPG.jpg&quot; alt=&quot;a2&quot; /&gt;
+听众们踊跃提问。  &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/p/IMG_7804.JPG.jpg&quot; alt=&quot;p1&quot; /&gt;
+工作人员正在忙碌地准备场地。  &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/p/IMG_7889.JPG.jpg&quot; alt=&quot;p2&quot; /&gt;
+工作人员正在分发奖品。  &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/p/IMG_7892.JPG.jpg&quot; alt=&quot;e1&quot; /&gt;
+大狐狸，最受欢迎的礼物。  &lt;/p&gt;
+
+&lt;p&gt;据学妹反馈，5场演讲中谢凌的和lumin的比较好，另外三个。（这句话我真的写完了）&lt;/p&gt;
+
+&lt;p&gt;感谢各位到场的嘉宾，感谢各位听众！  &lt;/p&gt;
+
+&lt;p&gt;SFD晚上场为Linux Install Party，原计划是动员大家用虚拟机尝试Ubuntu。然而鉴于来的人都没有带上自己的计算机(……)，
+于是主持lumin很机智地将晚上的主题改成了 ArchLinux Install Party，并为大家演示了 Arch Linux 的标准安装过程。&lt;br /&gt;
+据当晚的听众反馈：“不明但觉厉”  &lt;/p&gt;
+
+&lt;p&gt;至此，SFD2015西电站顺利结束！&lt;/p&gt;
 </description>
         <pubDate>Sat, 19 Sep 2015 14:00:00 +0000</pubDate>
-        <link>http://xdlinux.github.io/jekyll/update/2015/09/19/SFD2015/</link>
-        <guid isPermaLink="true">http://xdlinux.github.io/jekyll/update/2015/09/19/SFD2015/</guid>
+        <link>http://xdlinux.github.io/xdlinux/2015/09/19/SFD2015/</link>
+        <guid isPermaLink="true">http://xdlinux.github.io/xdlinux/2015/09/19/SFD2015/</guid>
         
         
-        <category>jekyll</category>
-        
-        <category>update</category>
+        <category>xdlinux</category>
         
       </item>
     
