@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Welcome to XDLinux!"
-date:   2015-01-11 01:04:39
+title:  "SFD2015 活动记录"
+date:   2015-09-19 14:00:00
 categories: jekyll update
 ---
 
